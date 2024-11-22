@@ -1,3 +1,7 @@
 {
-  "text": "hi"
+  "text": "hi",
+  "stuff" = {
+    "huh": "yes"
+    "eh": "gaming"
+  }
 }
